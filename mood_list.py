@@ -1,0 +1,22 @@
+responses = {
+    "happy": "That's wonderful to hear! Keep spreading those good vibes!",
+    "sad": "I'm sorry you're feeling down. Maybe a favorite movie or some music could help?",
+    "excited": "Exciting times! Channel that energy into something creative!",
+    "nervous": "Take a few deep breaths. You've got this; just one step at a time.",
+    "tired": "You should try to unwind with some tea and a good book or movie.",
+    "relaxed": "Glad to hear it! Enjoy the calm and keep doing what you're doing.",
+    "bored": "Maybe it's time to pick up a new hobby or dive into a good show?",
+    "stressed": "Take a break if you can. Even a few minutes can make a big difference.",
+    "content": "That's great! Staying balanced and content is a wonderful feeling.",
+    "frustrated": "Hang in there. Sometimes stepping away for a bit can bring new perspective.",
+    "hopeful": "That’s a wonderful outlook! Keep looking forward with optimism.",
+    "anxious": "Try some deep breathing or a short walk. It can really help with nerves.",
+    "grateful": "A thankful heart is a happy heart. Maybe share your gratitude with someone?",
+    "lonely": "Reaching out to a friend or family member could make a big difference.",
+    "motivated": "That's the spirit! Tackle your goals one by one—you’re unstoppable!",
+    "confused": "When in doubt, take a moment to pause and gather your thoughts.",
+    "curious": "Curiosity is a great way to learn! Maybe dive into a new topic today?",
+    "joyful": "Keep smiling! Your joy can brighten someone else's day, too.",
+    "melancholy": "Reflecting can be good for the soul. Take your time to process things.",
+    "peaceful": "Enjoy the tranquility. It's a rare and beautiful state of mind."
+}
